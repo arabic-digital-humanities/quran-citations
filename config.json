@@ -5,22 +5,22 @@
   "logo": {
     "file": "https://www.esciencecenter.nl/img/cdn/logo_escience_center.png",
     "link": "https://www.esciencecenter.nl/",
-    "text": "Dafne van Kuppevelt"
+    "text": "Netherlands eScience Center"
   },
   "text": {
-    "more": "",
-    "intro": "This network shows the Quran quotes in the  Fiqh Corpus. ",
+    "more": "This network shows the Quran quotes in the Fiqh Corpus.",
+    "intro": "This network shows the Quran quotes in the Fiqh Corpus.",
     "title": "Quran citations Fiqh"
   },
   "legend": {
-    "edgeLabel": "Citation",
-    "colorLabel": "Century (for books)",
-    "nodeLabel": "Book or aya"
+    "edgeLabel": "citation",
+    "colorLabel": "School",
+    "nodeLabel": "Book/aya"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
-    "hoverBehavior": "dim"
+    "groupSelectorAttribute": "booksubj",
+    "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
