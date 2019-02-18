@@ -8,7 +8,7 @@
     "text": "Netherlands eScience Center"
   },
   "text": {
-    "more": "This network shows the Quran quotes in the Fiqh Corpus.",
+    "more": "This network shows the Quran quotes in the Fiqh Corpus. The content of the Fiqh corpus can be searched on http://arabic-dh.hum.uu.nl/corpus-frontend/Fiqh/search. This visualization was created with the OII sigma js plugin for gephi.",
     "intro": "This network shows the Quran quotes in the Fiqh Corpus.",
     "title": "Quran citations Fiqh"
   },
